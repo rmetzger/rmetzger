@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rmetzger&show_icons=true&include_all_commits=true&hide_border=true" />
+
+Hi there 👋 I’m currently working on [Apache Flink](http://github.com/apache/flink/)
+
+
 <!--
 **rmetzger/rmetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
